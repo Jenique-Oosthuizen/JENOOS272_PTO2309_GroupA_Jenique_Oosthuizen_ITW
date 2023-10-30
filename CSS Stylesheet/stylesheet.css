@@ -17,7 +17,7 @@ header {
 .Photo img {
     border-radius: 50%;
 }
-aside {
+#navbar {
     border-style: groove;
     border-width: 5px;
     border-color: #e0b0d5;
@@ -27,7 +27,7 @@ aside {
     margin: 5px;
     padding: 5px;
     background-color: #e0b0d5;
-    width: 180px;
+    text-align: center;
 }
 footer {
     border-style: groove;
