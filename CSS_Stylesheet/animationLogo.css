@@ -1,0 +1,16 @@
+@keyframes LinkinLogo {
+    0% {filter: hue-rotate(90deg);}
+    25% {border-radius: 50%;}
+    50% {filter: hue-rotate(60deg);}
+    75% {transform: rotate(45deg);}
+    100%{filter: hue-rotate(30deg);}
+    }
+      
+      .Linkin_logo img {
+        animation-name: LinkinLogo;
+        animation-duration: 4s;
+        animation-iteration-count: infinite;
+        width: 30px;
+        height: 30px;
+      }
+    

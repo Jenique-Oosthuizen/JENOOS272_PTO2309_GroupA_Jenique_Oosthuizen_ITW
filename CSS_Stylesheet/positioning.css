@@ -1,0 +1,14 @@
+#navbar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+.Photo img {
+    top: 50px;
+}
+#arrow {
+    position: fixed;
+    bottom: 80px;
+    right: 80px;
+}
