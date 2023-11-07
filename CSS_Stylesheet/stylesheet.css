@@ -6,7 +6,7 @@ html {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 102%;
 }
-header {
+aside {
     color: #03256c;
     text-align: center;
 }
@@ -16,8 +16,8 @@ header {
 }
 .Photo img {
     border-radius: 50%;
-    width: 250px;
-    height: 400px;
+    width: 350px;
+    height: 520px;
 }
 #navbar {
     border-style: groove;
@@ -41,7 +41,6 @@ footer {
     margin: 5px;
     padding: 10px;
     background-color: #e0b0d5;
-    width: 180px;
 }
 main {
     border-style: solid;

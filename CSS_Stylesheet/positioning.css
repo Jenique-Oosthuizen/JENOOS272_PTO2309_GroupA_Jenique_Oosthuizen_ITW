@@ -5,10 +5,10 @@
     right: 0px;
 }
 .Photo img {
-    top: 50px;
+    top: 80px;
 }
 #arrow {
     position: fixed;
-    bottom: 80px;
-    right: 80px;
+    bottom: 40px;
+    right: 40px;
 }
