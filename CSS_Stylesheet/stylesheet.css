@@ -56,20 +56,20 @@ button {
 }
 /* Small devices */
 @media only screen and (min-width: 600px) {
-    
+    border-radius: 50%;
  } 
  
  /* Medium devices */
  @media only screen and (min-width: 768px) {
-    
+    border-radius: 50%;
  } 
  
  /* Large devices */
  @media only screen and (min-width: 992px) {
-    
+    border-radius: 50%;
  } 
  
  /* Extra large devices */
  @media only screen and (min-width: 1200px) {
-    
+    border-radius: 50%;
  }
